@@ -41,6 +41,7 @@
           <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:6.0.2" />
           <element id="library" level="project" name="Maven: org.json:json:20160212" />
+          <element id="library" level="project" name="Maven: com.google.zxing:core:3.2.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">

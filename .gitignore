@@ -1,0 +1,13 @@
+target/
+.project
+.settings/
+.classpath
+maven-eclipse.xml
+/bin/
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+.DS_Store
+log/
